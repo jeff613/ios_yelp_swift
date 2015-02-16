@@ -29,4 +29,4 @@ Time spent: `10`
 
 ### Walkthrough
 
-![Video Walkthrough](http://i.imgur.com/9d4fXIm.gif)
+![Video Walkthrough](http://i.imgur.com/p5p4agp.gif)
